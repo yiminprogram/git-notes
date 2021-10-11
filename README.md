@@ -1,9 +1,9 @@
 # git-notes
 
-1. [Git Setting](https://github.com/yiminprogram/git-notes/blob/main/git-setting.md)
+1. [git setting](https://github.com/yiminprogram/git-notes/blob/main/01-git-setting.md)
 
-1. [Git Basic](https://github.com/yiminprogram/git-notes/blob/main/git-basic.md)
+1. [git add](https://github.com/yiminprogram/git-notes/blob/main/02-git-add.md)
 
-1. [Git Branch](https://github.com/yiminprogram/git-notes/blob/main/git-branch.md)
+1. [git commit](https://github.com/yiminprogram/git-notes/blob/main/03-git-commit.md)
 
-1. [Git History](https://github.com/yiminprogram/git-notes/blob/main/git-history.md)
+1. [git log](https://github.com/yiminprogram/git-notes/blob/main/04-git-log.md)

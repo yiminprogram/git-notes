@@ -1,10 +1,11 @@
-# Git Setting
+# git setting
 
-- [Git Setting](#git-setting)
-  - [Setting email & name](#setting-email--name)
-  - [Command Alias(別名)](#command-alias別名)
+- [git setting](#git-setting)
+  - [setting email & name](#setting-email--name)
+  - [command alias(別名)](#command-alias別名)
+  - [git initial](#git-initial)
 
-## Setting email & name
+## setting email & name
 
 - global setting
 
@@ -22,10 +23,16 @@ git config --local user.name "user name"
 git config --local user.email "user email"
 ```
 
-## Command Alias(別名)
+## command alias(別名)
 
 ```zsh
 git config --global alias.st status
 
 # git status -> git st
+```
+
+## git initial
+
+```zsh
+git init
 ```
