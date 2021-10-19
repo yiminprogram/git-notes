@@ -1,0 +1,25 @@
+# git command
+
+- `git add .`
+- `git add <filename>`
+- `git add .*`
+- `git add -u`
+- `git clone <url>`
+- `git commit`
+- `git commit -m "version information"`
+- `git checkout main <filename>`
+- `git cat-file -p main`
+- `git cat-file -p <hash>`
+- `git hash-object <filename>`
+- `git init`
+- `git init --bare`
+- `git log`
+- `git log -10`
+- `git ls-files`
+- `git mv <old_filename> <new_filename>`
+- `git rm <filename>`
+- `git rm <filename> --cached`
+- `git reset`
+- `git reset --hard`
+- `git status`
+- `git status -s`
