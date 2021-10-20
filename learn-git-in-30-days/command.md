@@ -4,10 +4,15 @@
 - `git add <filename>`
 - `git add .*`
 - `git add -u`
+- `git branch`
+- `git branch <branch_name>`
+- `git branch -d <branch_name>`
 - `git clone <url>`
 - `git commit`
 - `git commit -m "version information"`
 - `git checkout main <filename>`
+- `git checkout -b <branch_name>`
+- `git checkout <branch_name>`
 - `git cat-file -p main`
 - `git cat-file -p <hash>`
 - `git hash-object <filename>`
@@ -23,3 +28,5 @@
 - `git reset --hard`
 - `git status`
 - `git status -s`
+
+-
