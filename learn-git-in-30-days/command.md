@@ -15,11 +15,18 @@
 - `git checkout <branch_name>`
 - `git cat-file -p main`
 - `git cat-file -p <hash>`
+- `git diff`
+- `git diff <hash>`
+- `git diff --cached <hash>`
+- `git diff --cached HEAD`
+- `git diff <old hash> <new hash>`
 - `git hash-object <filename>`
 - `git init`
 - `git init --bare`
 - `git log`
 - `git log -10`
+- `git log --pretty=oneline`
+- `git log --pretty=online --abbrev-commit`
 - `git ls-files`
 - `git mv <old_filename> <new_filename>`
 - `git rm <filename>`
@@ -28,5 +35,12 @@
 - `git reset --hard`
 - `git status`
 - `git status -s`
+- `git stash`
+- `git stash -u`
+- `git stash list`
+- `git stash pop`
+- `git stash apply`
+- `git stash drop`
+- `git stash clear`
 
 -
