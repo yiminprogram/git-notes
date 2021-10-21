@@ -42,5 +42,9 @@
 - `git stash apply`
 - `git stash drop`
 - `git stash clear`
+- `git tag`
+- `git tag <tag_name>`
+- `git tag <tag_name> -a -m <"message">`
+- `git tag <tag_name> -d`
 
 -
