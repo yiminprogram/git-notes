@@ -31,6 +31,7 @@
 - `git log -g`
 - `git ls-files`
 - `git mv <old_filename> <new_filename>`
+- `git merge <target_branch>`
 - `git rm <filename>`
 - `git rm <filename> --cached`
 - `git reflog`
