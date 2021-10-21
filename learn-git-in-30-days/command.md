@@ -20,6 +20,7 @@
 - `git diff --cached <hash>`
 - `git diff --cached HEAD`
 - `git diff <old hash> <new hash>`
+- `git gc`
 - `git hash-object <filename>`
 - `git init`
 - `git init --bare`
@@ -27,10 +28,15 @@
 - `git log -10`
 - `git log --pretty=oneline`
 - `git log --pretty=online --abbrev-commit`
+- `git log -g`
 - `git ls-files`
 - `git mv <old_filename> <new_filename>`
 - `git rm <filename>`
 - `git rm <filename> --cached`
+- `git reflog`
+- `git reflog <branch_name>`
+- `git reset "<HEAD@{1}>" --hard`
+- `git reflog delete "<ref@{specifier}>"`
 - `git reset`
 - `git reset --hard`
 - `git status`
