@@ -10,6 +10,7 @@
 - `git clone <url>`
 - `git commit`
 - `git commit -m "version information"`
+- `git commit --amend`
 - `git checkout main <filename>`
 - `git checkout -b <branch_name>`
 - `git checkout <branch_name>`
@@ -40,6 +41,9 @@
 - `git reflog delete "<ref@{specifier}>"`
 - `git reset`
 - `git reset --hard`
+- `git reset --hard HEAD^`
+- `git reset --hard ORIG_HEAD`
+- `git reset --soft HEAD^`
 - `git status`
 - `git status -s`
 - `git stash`
